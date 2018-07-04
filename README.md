@@ -4,7 +4,7 @@
 
 ## About ##
 
-Femto is an extremely lean amd fast-loading (non-Bootstrap) theme for Typesetter CMS (~10kB of code in total) featuring an off-canvas &lsquo;togglable&rsquo; side navigation. Don&raquo;t expect too much pre-defined style &ndash; this one is a barebone. Build upon it if you like simple things.
+Femto is an extremely lean and fast-loading (non-Bootstrap) theme for Typesetter CMS (~10kB of code in total) featuring an off-canvas &lsquo;togglable&rsquo; side navigation. Don&raquo;t expect too much pre-defined style &ndash; this one is a barebone. Build upon it if you like simple things.
 
 See also [Typesetter Home](http://www.typesettercms.com), [Typesetter on GitHub](https://github.com/Typesetter/Typesetter)
 
