@@ -1,5 +1,7 @@
 # Femto Theme for Typesetter CMS #
 
+![Screenshot](/screenshot.png?raw=true)
+
 ## About ##
 
 Femto is an extremely lean amd fast-loading (non-Bootstrap) theme for Typesetter CMS (~10kB of code in total) featuring an off-canvas &lsquo;togglable&rsquo; side navigation. Don&raquo;t expect too much pre-defined style &ndash; this one is a barebone. Build upon it if you like simple things.
